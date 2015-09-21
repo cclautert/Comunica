@@ -1,0 +1,6 @@
+C:\Users\cristiano\Documents\Visual Studio 2013\Projects\Comunica\Comunica\bin\Debug\Comunica.exe.config
+C:\Users\cristiano\Documents\Visual Studio 2013\Projects\Comunica\Comunica\bin\Debug\Comunica.exe
+C:\Users\cristiano\Documents\Visual Studio 2013\Projects\Comunica\Comunica\bin\Debug\Comunica.pdb
+C:\Users\cristiano\Documents\Visual Studio 2013\Projects\Comunica\Comunica\obj\Debug\Comunica.exe
+C:\Users\cristiano\Documents\Visual Studio 2013\Projects\Comunica\Comunica\obj\Debug\Comunica.pdb
+C:\Users\cristiano\documents\visual studio 2013\Projects\Comunica\Comunica\obj\Debug\Comunica.csprojResolveAssemblyReference.cache

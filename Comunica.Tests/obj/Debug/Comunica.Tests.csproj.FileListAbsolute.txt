@@ -1,0 +1,7 @@
+C:\Users\cristiano\Documents\Visual Studio 2013\Projects\Comunica\Comunica.Tests\bin\Debug\Comunica.Tests.dll
+C:\Users\cristiano\Documents\Visual Studio 2013\Projects\Comunica\Comunica.Tests\bin\Debug\Comunica.Tests.pdb
+C:\Users\cristiano\Documents\Visual Studio 2013\Projects\Comunica\Comunica.Tests\bin\Debug\Comunica.exe
+C:\Users\cristiano\Documents\Visual Studio 2013\Projects\Comunica\Comunica.Tests\bin\Debug\Comunica.pdb
+C:\Users\cristiano\Documents\Visual Studio 2013\Projects\Comunica\Comunica.Tests\obj\Debug\Comunica.Tests.csprojResolveAssemblyReference.cache
+C:\Users\cristiano\Documents\Visual Studio 2013\Projects\Comunica\Comunica.Tests\obj\Debug\Comunica.Tests.dll
+C:\Users\cristiano\Documents\Visual Studio 2013\Projects\Comunica\Comunica.Tests\obj\Debug\Comunica.Tests.pdb
